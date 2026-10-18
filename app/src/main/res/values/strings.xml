@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">RoroCam</string>
+    <string name="dev_name">AF9 Media</string>
+    <string name="camera_tab">Kamera Retro</string>
+    <string name="dual_tab">Dual Kamera</string>
+    <string name="edit_tab">Edit Otomatis</string>
+    <string name="gallery_tab">Galeri</string>
+    <string name="filter_35mm">35mm Film</string>
+    <string name="filter_kodak">Kodak Gold</string>
+    <string name="filter_bw">Noir B&amp;W</string>
+    <string name="filter_sepia">Sepia 1920</string>
+    <string name="filter_polaroid">Instant 70s</string>
+    <string name="filter_cyber">Cyberpunk</string>
+    <string name="filter_vhs">VHS Glitch</string>
+    <string name="auto_enhance">Enhance Otomatis</string>
+</resources>

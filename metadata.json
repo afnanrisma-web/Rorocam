@@ -1,0 +1,6 @@
+{
+  "name": "RoroCam",
+  "description": "Kamera retro vintage dengan filter analog, editing foto otomatis cerdas, dan perekaman video dual kamera simultan oleh AF9 Media.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
